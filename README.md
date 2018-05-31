@@ -12,8 +12,10 @@ We consider 8 emotions {0=neutral, 1=anger, 2=contempt, 3=disgust, 4=fear, 5=hap
 1. Clone this repo
 `git clone https://github.com/rafikbahri/emotion-recognizer.git`
 
-2. Copy the images in the dataset/ folder.
-
+2. Put the images from the dataset in the source_images/ folder.
+   Put the emotions from the dataset in the source_emotions/ folder.
+   Put your test images in prepared-users-inputs/ folder.
+  
 3. Organize the dataset in folders with emotions names 
 `python dataset_org.py`
    
