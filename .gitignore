@@ -1,9 +1,9 @@
-dataset/
-sorted_set/
-source_emotions/
-source_images/
+dataset/*
+sorted_set/*
+source_emotions/*
+source_images/*
 Submission_Reports/
 difficult/
-prepared-users-inputs/
+prepared-users-inputs/*
 .vscode/
 *.jpg
